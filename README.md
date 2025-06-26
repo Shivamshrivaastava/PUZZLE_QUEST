@@ -2,6 +2,9 @@
 
 A modern brain training web application that challenges users with AI-generated puzzles, tracks IQ progress, and builds daily streaks. Train your mind with logic puzzles, math problems, word games, and pattern recognition challenges.
 
+---
+### Deployed APP - https://the-puzzle-quest.netlify.app/
+---
 ## ✨ Features
 
 ### 🎮 Core Gameplay
