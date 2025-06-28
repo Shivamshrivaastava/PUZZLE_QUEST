@@ -4,6 +4,7 @@ A modern brain training web application that challenges users with AI-generated 
 
 ---
 ### Deployed APP - https://the-puzzle-quest.netlify.app/
+### walkthrough - https://youtu.be/kw7BKOV7y84
 ---
 ## ✨ Features
 
