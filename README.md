@@ -268,9 +268,6 @@ We welcome contributions! Here's how to get started:
 - **🚀 Modern**: Built with the latest web technologies
 - **🎨 Beautiful**: Elegant design that's pleasant to use daily
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -278,10 +275,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **React Team** for the amazing framework
 - **TailwindCSS** for the utility-first CSS approach
 - **Lucide** for the beautiful icon library
-- **All Contributors** who help make this project better
+  
 
 ---
 
 **Ready to train your brain?** 🧩 Start your puzzle quest today and join thousands of users improving their cognitive abilities one puzzle at a time!
 
-_Made with 💜 by passionate developers for brain enthusiasts_
+_Made with 💜  for brain enthusiasts_
